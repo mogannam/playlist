@@ -30,7 +30,7 @@ The following image demonstrates the web application's appearance and functional
   (Links to an external site.)
 
 * [Repository](https://github.com/tbellenger/playlist/)
-* [Live Site](https://tbellenger.github.io/playlist/)
+* [Live Site](https://mogannam.github.io/playlist/)
 
 ## Credits
  
